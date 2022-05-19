@@ -4,7 +4,7 @@
 
 It was prepared to understand the capabilities of Streamlit and to have an idea about the applications that can be made.
 
-Related article: https://medium.com/@sengul-krdrl/developing-prediction-app-with-streamlit-2b8e4f8abfef
+Read the article of project https://medium.com/@sengul-krdrl/developing-prediction-app-with-streamlit-2b8e4f8abfef 👩‍💻
 
 Three models trained with randomly prepared historical data predicted the next 20 data points:
 
